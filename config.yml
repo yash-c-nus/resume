@@ -28,7 +28,7 @@ menu:
           weight: 6
 
 params:
-    description: "I am a MSc Student in Sustainable and Green Finance at NUS Business School."
+    description: "MSc Student in Sustainable and Green Finance at NUS Business School | Singapore"
     author: yash chhabra
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -54,7 +54,7 @@ params:
     profileMode:
           enabled: true
           title: Yash Chhabra
-          subtitle: "I am a MSc Student in Sustainable and Green Finance at NUS Business School."
+          subtitle: "MSc Student in Sustainable and Green Finance at NUS Business School | Singapore"
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
