@@ -56,9 +56,9 @@ params:
           title: Yash Chhabra
           subtitle: "MSc Student in Sustainable and Green Finance at NUS Business School | Singapore"
           imageUrl: "GitHub.jpg"
-          imageWidth: 100
+          imageWidth: 160
           imageHeight: 160
-          imageTitle: Moritz-Maria von Igelfeld
+          imageTitle: Yash Chhabra
           buttons:
             - name: Papers
               url: papers/
