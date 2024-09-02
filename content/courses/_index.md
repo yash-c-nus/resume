@@ -1,4 +1,9 @@
 ---
 title: "Courses"
-description: "Courses on philology by Professor Dr von Igelfeld and esteemed colleagues. For undergraduate and graduate students."
+description: "Graduate level courses currently enrolled in at NUS BIZ:
+Foundational Corporate Finance
+Foundation of Investments
+Economics of Sustainability
+Sustainability in Supply Chain
+"
 ---
