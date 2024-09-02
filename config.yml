@@ -1,5 +1,5 @@
 baseURL: "https://yash-c-nus.github.io/resume/" 
-title: Moritz-Maria von Igelfeld
+title: Yash Chhabra
 paginate: 20
 theme: PaperMod
 
@@ -28,11 +28,11 @@ menu:
           weight: 6
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
+    description: "I am a MSc Student in Sustainable and Green Finance at NUS Business School."
     author: yash chhabra
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light
+    defaultTheme: dark
     hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
@@ -53,8 +53,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Yash Chhabra
+          subtitle: "I am a MSc Student in Sustainable and Green Finance at NUS Business School."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
