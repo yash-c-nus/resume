@@ -23,8 +23,8 @@ menu:
         - name: Data
           url: data/
           weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/yashc19/
           weight: 6
 
 params:
