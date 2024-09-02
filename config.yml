@@ -11,8 +11,8 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
+        - name: Reads
+          url: reads/
           weight: 5 
         - name: Papers
           url: papers/
