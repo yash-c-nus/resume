@@ -20,8 +20,8 @@ menu:
         - name: Courses
           url: courses/
           weight: 3
-        - name: Data
-          url: data/
+        - name: Projects
+          url: projects/
           weight: 4 
         - name: LinkedIn
           url: https://www.linkedin.com/in/yashc19/
@@ -60,18 +60,16 @@ params:
           imageHeight: 160
           imageTitle: Yash Chhabra
           buttons:
-            - name: Papers
-              url: papers/
             - name: Courses
               url: courses/
-            - name: Data
-              url: data/
+            - name: Papers
+              url: papers/
+            - name: Projects
+              url: projects/
             - name: Reads
               url: reads/
             - name: Tags
               url: tags/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
