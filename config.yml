@@ -55,9 +55,9 @@ params:
           enabled: true
           title: Yash Chhabra
           subtitle: "MSc Student in Sustainable and Green Finance at NUS Business School | Singapore"
-          imageUrl: "F13E6C85-D497-49FB-8819-A54B6B925194.JPG"
-          imageWidth: 200
-          imageHeight: 300
+          imageUrl: "GitHub.jpg"
+          imageWidth: 160
+          imageHeight: 160
           imageTitle: Moritz-Maria von Igelfeld
           buttons:
             - name: Papers
