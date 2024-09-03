@@ -1,7 +1,7 @@
 ---
 title: "Courses"
 date: "2024"
-lastmod: 2024-07-12
+lastmod: September 2024
 tags: ["NUS Business School","sustainability","economics","finance","investments","foundation"]
 author: "Yash Chhabra"
 description: "The graduate level courses I'm currently enrolled in at NUS Business School." 
