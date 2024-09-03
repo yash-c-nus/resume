@@ -8,7 +8,7 @@ description: "The graduate level courses I'm currently enrolled in at NUS Busine
 summary:  
 cover:
     image: "course1.png"
-    alt: "Villa of Reduced Circumstances"
+    alt: "NUS Business School"
     relative: false
 editPost:
     URL: "https://msgfin.nus.edu.sg"
@@ -24,23 +24,23 @@ disableAnchoredHeadings: false
 
 This course develops a conceptual framework for corporate decisions, focusing on the responsibilities, concerns, and methods of analysis for the chief financial officer. Topics include capital budgeting, financial modeling, M&A deal structures, syndicated loans, public equity offerings, and dividend policy. The impact of major external constituents, such as private equity and hedge funds, on corporate decisions are also considered.
 
-+ Why are there irregular verbs? 
-+ How are Portuguese irregular verbs different from Spanish irregular verbs? 
-+ What is the role of Latin and Greek in these irregularities? 
-+ What about irregular verbs in other Romance languages?
-    + Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. 
-    + Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-    + Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-    + Excepteur sint occaecat cupidatat non proident.
-    
-Sunt in culpa qui officia deserunt mollit anim id est laborum.
+## BMG 5102 - Foundation of Investments
 
-## Part 1: Review of Romance languages
+[Instructor: Prof Johan Sulaeman](https://discovery.nus.edu.sg/5231-johan-sulaeman)
 
-This section reviews Romance languages. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This course develops a conceptual framework for investment decisions, focusing on the responsibilities, concerns, and methods of analysis for investment professionals. Topics include portfolio construction, asset classes (equity, fixed income, options, futures, etc.), asset allocation, asset pricing, and market (in)efficiency. The course also covers the rise of sustainability as an important concerns for financial intermediaries, e.g., mutual funds, hedge funds, and private offices.
+
+## BMG 5104 - Economics of Sustainability
+
+[Instructor: Prof Johan Sulaeman](https://discovery.nus.edu.sg/5231-johan-sulaeman)
+
+This course develops a conceptual framework for investment decisions, focusing on the responsibilities, concerns, and methods of analysis for investment professionals. Topics include portfolio construction, asset classes (equity, fixed income, options, futures, etc.), asset allocation, asset pricing, and market (in)efficiency. The course also covers the rise of sustainability as an important concerns for financial intermediaries, e.g., mutual funds, hedge funds, and private offices.
+
+## BMG 5206 - Sustainability in Supply Chain
+
+[Instructor: Prof Johan Sulaeman](https://discovery.nus.edu.sg/5231-johan-sulaeman)
+
+This course develops a conceptual framework for investment decisions, focusing on the responsibilities, concerns, and methods of analysis for investment professionals. Topics include portfolio construction, asset classes (equity, fixed income, options, futures, etc.), asset allocation, asset pricing, and market (in)efficiency. The course also covers the rise of sustainability as an important concerns for financial intermediaries, e.g., mutual funds, hedge funds, and private offices.
 
 ##### Lecture videos
 
