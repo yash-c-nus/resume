@@ -1,6 +1,6 @@
 ---
 title: "Courses"
-date: 2024
+date: "2024"
 lastmod: 2024-07-12
 tags: ["NUS Business School","sustainability","economics","finance","investments","foundation"]
 author: "Yash Chhabra"
@@ -18,7 +18,9 @@ disableAnchoredHeadings: false
 
 ---
 
-## Introduction
+## BMG 5101 - Foundational Corporate Finance
+
+Instructor: Prof Ruth Tan "https://discovery.nus.edu.sg/183-seow-kuan-tan"
 
 This course covers research topics related to Romance philology. It focuses especially on Portugese and Spanish irregular verbs. It tries to answer several questions: 
 
