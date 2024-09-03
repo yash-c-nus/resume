@@ -32,15 +32,15 @@ This course develops a conceptual framework for investment decisions, focusing o
 
 ## BMG 5104 - Economics of Sustainability
 
-[Instructor: Prof Johan Sulaeman](https://discovery.nus.edu.sg/5231-johan-sulaeman)
+[Instructor: Prof Mingxuan Fan](https://discovery.nus.edu.sg/15958-mingxuan-fan)
 
-This course develops a conceptual framework for investment decisions, focusing on the responsibilities, concerns, and methods of analysis for investment professionals. Topics include portfolio construction, asset classes (equity, fixed income, options, futures, etc.), asset allocation, asset pricing, and market (in)efficiency. The course also covers the rise of sustainability as an important concerns for financial intermediaries, e.g., mutual funds, hedge funds, and private offices.
+The course introduces students to the economics of sustainability. It will provide students with a clear understanding on what it means ‘to think like an economist’, and the skills to apply economic tools towards questions of economic sustainability and environmental planning. With sustainability being a global problem with local characteristics, the course will provide students with a holistic overview of environmental economics and sustainable development from a global perspective. Students are introduced to the economic concepts, theories and practices for analysing sustainable development. It also reviews the implementation and success (and failures) of existing policy instruments.
 
 ## BMG 5206 - Sustainability in Supply Chain
 
-[Instructor: Prof Johan Sulaeman](https://discovery.nus.edu.sg/5231-johan-sulaeman)
+[Instructor: Prof Mabel Chou Cheng-Feng](https://discovery.nus.edu.sg/906-chengfeng-chou)
 
-This course develops a conceptual framework for investment decisions, focusing on the responsibilities, concerns, and methods of analysis for investment professionals. Topics include portfolio construction, asset classes (equity, fixed income, options, futures, etc.), asset allocation, asset pricing, and market (in)efficiency. The course also covers the rise of sustainability as an important concerns for financial intermediaries, e.g., mutual funds, hedge funds, and private offices.
+This course aims to provide students with a comprehensive understanding of sustainability in supply chain management, focusing on environmental sustainability, waste reduction, and supply chain resilience. Students will learn about the importance of integrating sustainability principles into supply chain operations to minimize environmental impact, reduce waste, enhance resilience, and create long-term value for businesses and society.
 
 ##### Lecture videos
 
