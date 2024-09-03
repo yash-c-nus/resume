@@ -1,11 +1,11 @@
 ---
-title: "Portugese Irregular Verbs" 
-date: 1997-01-01
+title: "Breaking the Mould: Reimagining India's Economic Future" 
+date: 
 lastmod: 2024-05-08
-tags: ["Portugese","irregular verbs","philology"]
-author: ["Moritz-Maria von Igelfeld"]
-description: "This book discusses Portugese irregular verbs in great details."
-summary: "This book discusses Portugese irregular verbs in great details."
+tags: ["breaking the mould","india","raghuram rajan"]
+author: ["Raghuram Rajan and Rohit Lamba"]
+description: "This book gives a clear overview of what India needs to do, for it to succeed in the future, apart from throwing light on the path it took to come here."
+summary: 
 cover:
     image: "book1.png"
     alt: "Portugese Irregular Verbs"
