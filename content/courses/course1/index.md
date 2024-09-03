@@ -1,18 +1,18 @@
 ---
-title: "Lectures at the Villa of Reduced Circumstances"
-date: 2003-03-10
+title: "Courses"
+date: 2024
 lastmod: 2024-07-12
-tags: ["Romance languages","philology","irregular verbs","Spanish","Portuguese"]
-author: "Moritz-Maria von Igelfeld"
-description: "This graduate course presents classical results in Romance philology." 
-summary: "This graduate course presents classical results in Romance philology. it focuses especially on Portugese and Spanish irregular verbs." 
+tags: ["NUS Business School","sustainability","economics","finance","investments","foundation"]
+author: "Yash Chhabra"
+description: "The graduate level courses I'm currently enrolled in at NUS Business School." 
+summary:  
 cover:
     image: "course1.png"
     alt: "Villa of Reduced Circumstances"
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Course portal"
+    URL: "https://msgfin.nus.edu.sg"
+    Text: "Program Portal"
 showToc: true
 disableAnchoredHeadings: false
 
