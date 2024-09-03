@@ -20,7 +20,7 @@ disableAnchoredHeadings: false
 
 ## BMG 5101 - Foundational Corporate Finance
 
-Instructor: Prof Ruth Tan "https://discovery.nus.edu.sg/183-seow-kuan-tan"
+[Instructor: Prof Ruth Tan](https://discovery.nus.edu.sg/183-seow-kuan-tan)
 
 This course covers research topics related to Romance philology. It focuses especially on Portugese and Spanish irregular verbs. It tries to answer several questions: 
 
