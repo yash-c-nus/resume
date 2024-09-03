@@ -22,7 +22,7 @@ disableAnchoredHeadings: false
 
 [Instructor: Prof Ruth Tan](https://discovery.nus.edu.sg/183-seow-kuan-tan)
 
-This course covers research topics related to Romance philology. It focuses especially on Portugese and Spanish irregular verbs. It tries to answer several questions: 
+This course develops a conceptual framework for corporate decisions, focusing on the responsibilities, concerns, and methods of analysis for the chief financial officer. Topics include capital budgeting, financial modeling, M&A deal structures, syndicated loans, public equity offerings, and dividend policy. The impact of major external constituents, such as private equity and hedge funds, on corporate decisions are also considered.
 
 + Why are there irregular verbs? 
 + How are Portuguese irregular verbs different from Spanish irregular verbs? 
