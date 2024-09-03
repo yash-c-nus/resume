@@ -69,8 +69,8 @@ I love breaking down complex problems into simpler components, making it easier 
               url: papers/
             - name: Projects
               url: projects/
-            - name: Reads
-              url: reads/
+            - name: Books
+              url: books/
             - name: Tags
               url: tags/
 
