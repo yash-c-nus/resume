@@ -5,7 +5,7 @@ lastmod:
 tags: ["coffee","singapore"]
 author: ["Yash Chhabra"]
 description: "These are all the coffee shops I have been to in Singapore."
-summary: ""bean there, sipped there""
+summary: "bean there, sipped there"
 showToc: true
 disableAnchoredHeadings: false
 
