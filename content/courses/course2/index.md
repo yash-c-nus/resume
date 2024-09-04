@@ -1,117 +1,107 @@
 ---
-title: "Profanity in Early Irish" 
-date: 1990-06-16
-lastmod: 2024-07-12
-tags: ["Irish","philology","profanity","Celtic languages","language modernization"]
-author: ["Dieter Vogelsang","Moritz-Maria von Igelfeld"]
-description: "This undergraduate course discusses profanity in Early Irish." 
-summary: "This undergraduate course discusses profanity in Early Irish, and relates such profanity to profanity in modern English." 
+title: "Courses"
+date: "2024"
+lastmod: September 2024
+tags: ["NUS Business School","sustainability","economics","finance","investments","foundation"]
+author: "Yash Chhabra"
+description: "The graduate level courses I'm currently enrolled in at NUS Business School." 
+summary:  
 cover:
-    image: "course2.png"
-    alt: "Figure caption"
+    image: "course1.png"
+    alt: "NUS Business School"
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Course portal"
+    URL: "https://msgfin.nus.edu.sg"
+    Text: "Program Portal"
 showToc: true
 disableAnchoredHeadings: false
 
 ---
 
-## Introduction
+## BMG 5101 - Foundational Corporate Finance
 
-This course covers topics related to profanity in Early Irish. It relates such profanity to profanity in modern English:
+[Instructor: Prof Ruth Tan](https://discovery.nus.edu.sg/183-seow-kuan-tan)
 
-+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-+ Sed fermentum turpis nec dolor dapibus, ac commodo enim consequat. 
-+ Suspendisse potenti. Integer ac mauris nec ligula finibus ullamcorper. 
-+ Phasellus rutrum enim in nunc aliquam mollis. 
-+ Vivamus auctor nunc ac augue dapibus, in fermentum enim hendrerit. Duis et ultrices sem, eget efficitur lacus. 
+This course develops a conceptual framework for corporate decisions, focusing on the responsibilities, concerns, and methods of analysis for the chief financial officer. Topics include capital budgeting, financial modeling, M&A deal structures, syndicated loans, public equity offerings, and dividend policy. The impact of major external constituents, such as private equity and hedge funds, on corporate decisions are also considered.
 
-##### Introductory video
+## BMG 5102 - Foundation of Investments
 
-+ [Lecture video 0](https://youtu.be/8ihJsf-AXdA)
+[Instructor: Prof Johan Sulaeman](https://discovery.nus.edu.sg/5231-johan-sulaeman)
 
-##### Introductory readings
+This course develops a conceptual framework for investment decisions, focusing on the responsibilities, concerns, and methods of analysis for investment professionals. Topics include portfolio construction, asset classes (equity, fixed income, options, futures, etc.), asset allocation, asset pricing, and market (in)efficiency. The course also covers the rise of sustainability as an important concerns for financial intermediaries, e.g., mutual funds, hedge funds, and private offices.
 
-+ [Paper 1](https://pascalmichaillat.org/1.pdf)
-+ [Paper 2](https://pascalmichaillat.org/13.pdf)
+## BMG 5104 - Economics of Sustainability
 
----
+[Instructor: Prof Mingxuan Fan](https://discovery.nus.edu.sg/15958-mingxuan-fan)
 
-## Part 1: Overview of Early Irish
+The course introduces students to the economics of sustainability. It will provide students with a clear understanding on what it means ‘to think like an economist’, and the skills to apply economic tools towards questions of economic sustainability and environmental planning. With sustainability being a global problem with local characteristics, the course will provide students with a holistic overview of environmental economics and sustainable development from a global perspective. Students are introduced to the economic concepts, theories and practices for analysing sustainable development. It also reviews the implementation and success (and failures) of existing policy instruments.
 
-This section reviews the Early Irish language. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur.
+## BMG 5206 - Sustainability in Supply Chain
+
+[Instructor: Prof Mabel Chou Cheng-Feng](https://discovery.nus.edu.sg/906-chengfeng-chou)
+
+This course aims to provide students with a comprehensive understanding of sustainability in supply chain management, focusing on environmental sustainability, waste reduction, and supply chain resilience. Students will learn about the importance of integrating sustainability principles into supply chain operations to minimize environmental impact, reduce waste, enhance resilience, and create long-term value for businesses and society.
 
 ##### Lecture videos
 
-+ [Lecture video 1](https://youtu.be/X_mwtm3inEw)
-+ [Lecture video 2](https://youtu.be/cFdwOwY2l-A)
++ [Lecture video 1](https://youtu.be/3MZeJED2yns) – This is a first lecture video.
++ [Lecture video 2](https://youtu.be/8ihJsf-AXdA) – This is a another lecture video.
++ [Lecture video 3](https://youtu.be/79MSNfp1rw0) – This is a third lecture video. It is quite short.
 
 ##### Lecture notes
 
-+ [Lecture notes 1](notes1.pdf) – Concise overview of early Irish
-+ [Lecture notes 2](notes2.pdf) – Complete and detailed overview of early Irish
++ [Lecture note 1](lecture1.pdf)
 
 ##### Readings
 
-+ [Paper 3](https://pascalmichaillat.org/7.pdf)
-+ [Paper 4](https://pascalmichaillat.org/8.pdf)
++ [Paper 1](https://pascalmichaillat.org/1.pdf) – This is a first paper to read.
++ [Paper 2](https://pascalmichaillat.org/2.pdf) – This paper builds on the first one.
++ [Paper 3](https://pascalmichaillat.org/4.pdf) – This paper is more complex.
 
----
+## Part 2: Portugese irregular verbs
 
-## Part 2: Profanity in Indo-European Languages
-
-This section introduces profanity in Indo-European languages. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua:
-
-> Maecenas quis ex nec tortor pulvinar tristique. Morbi eget massa nec quam interdum posuere. Vestibulum lobortis auctor massa, sed hendrerit risus malesuada eu. Fusce nec metus ligula. Donec in mauris dolor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris vestibulum erat nec odio tincidunt, vitae laoreet mi tempor.
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris vestibulum erat nec odio tincidunt, vitae laoreet mi tempor. Quisque id eros sit amet enim tempor pellentesque. Suspendisse tincidunt risus a vehicula tincidunt. Nullam sollicitudin libero et ex cursus ultrices. Phasellus sit amet justo vitae nulla hendrerit pretium. Aenean quis velit eu risus pharetra vestibulum. Sed nec risus dolor. Vivamus vel leo ac ante pharetra auctor. Curabitur eleifend sapien non nisl varius, in hendrerit ipsum vehicula. Sed non justo sit amet nisi pharetra fermentum.
+This section introduces Portugese irregular verbs. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ##### Lecture videos
 
-+ [Lecture video 3](https://youtu.be/GfpKnLDTwyM)
-+ [Lecture video 4](https://youtu.be/UHnSkIZcjBs)
++ [Lecture video 4](https://youtu.be/IZI0_WwIyb8)
++ [Lecture video 5](https://youtu.be/Qz7CCB1-gu8)
++ [Lecture video 6](https://youtu.be/79MSNfp1rw0)
 
-##### Compulsory readings
+##### Lecture notes
 
-+ [Paper 5](https://pascalmichaillat.org/10.pdf)
-+ [Paper 6](https://pascalmichaillat.org/11.pdf)
++ [Lecture note 2](lecture2.pdf)
 
-##### Optional readings
+##### Readings
 
-+ [Paper 7](https://pascalmichaillat.org/2.pdf)
-+ [Paper 8](https://pascalmichaillat.org/4.pdf)
-+ [Paper 9](https://pascalmichaillat.org/5.pdf)
++ [Paper 4](https://pascalmichaillat.org/5.pdf) – This paper computes things. (Details about the simulations are presented in the paper's [online appendix](https://pascalmichaillat.org/5a.pdf).)
++ [Paper 5](https://pascalmichaillat.org/3.pdf) – This paper proves things. (The paper's [online appendix](https://pascalmichaillat.org/3a.pdf) contains long proofs and extensions of the results.)
 
-##### Homework
 
-+ [Problem set on profanity in Indo-European languages](problemset.pdf)
+## Part 3: Spanish irregular verbs
 
----
-
-## Part 3: The originality of profanity in Early Irish
-
-This section turns to the various elements that make profanity in Early Irish so original. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This section quickly discusses irregular verbs in Spanish. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
 
 ##### Lecture videos
 
-+ [Lecture video 5](https://youtu.be/Q0y2EtgTpXM)
-+ [Lecture slides 6](https://youtu.be/0ZO87WsOYrY)
++ [Lecture video 7](https://youtu.be/pIS8-mXG1oY)
++ [Lecture video 8](https://youtu.be/FUaeNM8_fxs)
++ [Optional lecture video](https://youtu.be/xjHVrx7jfdY)
 
+##### Basic readings
 
----
++ [Paper 6](https://pascalmichaillat.org/10.pdf)
+
+##### Advanced readings
+
++ [Paper 7](https://pascalmichaillat.org/11.pdf)
++ [Paper 8](https://pascalmichaillat.org/12.pdf)
 
 ## Conclusion
 
-This section concludes. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This section concludes by comparing Portuguese and Spanish irregular verbs to irregular verbs in other Romance languages. 
+
+> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Aenean magna nisl, mollis quis, molestie eu, feugiat in, orci. In hac habitasse platea dictumst. Quisque non felis. Nullam vulputate libero quis ligula. Fusce scelerisque suscipit sapien. Suspendisse commodo ullamcorper magna. 
+> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
