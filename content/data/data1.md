@@ -1,11 +1,11 @@
 ---
 title: "Coffee in Singapore" 
-date: 
-lastmod: 2024-07-12
+date:
+lastmod:
 tags: ["coffee","singapore"]
 author: ["Yash Chhabra"]
 description: "These are all the coffee shops I have been to in Singapore."
-summary: "I'm excited to try even more coffee shops!"
+summary: ""bean there, sipped there""
 showToc: true
 disableAnchoredHeadings: false
 
