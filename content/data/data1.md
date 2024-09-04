@@ -3,7 +3,7 @@ title: "Coffee in Singapore"
 date:
 lastmod:
 tags: ["coffee","singapore"]
-author:
+author: "Yash Chhabra"
 description: "These are all the coffee shops I have been to in Singapore."
 summary:
 showToc: true
