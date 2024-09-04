@@ -15,13 +15,13 @@ menu:
           url: books/
           weight: 2 
         - name: Coffee
-          url: coffee/
+          url: data/
           weight: 5
         - name: Courses
           url: courses/
           weight: 3
         - name: Projects
-          url: projects/
+          url: papers/
           weight: 4 
         - name: LinkedIn
           url: https://www.linkedin.com/in/yashc19/
@@ -68,11 +68,11 @@ I love breaking down complex problems into simpler components, making it easier 
             - name: Reads
               url: books/
             - name: Projects
-              url: projects/
+              url: papers/
             # name: Reads
              # url: reads/
             - name: Coffee
-              url: coffee/
+              url: data/
 
     socialIcons:
         - name: CV
