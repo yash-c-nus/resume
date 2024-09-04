@@ -58,9 +58,8 @@ I love breaking down complex problems into simpler components, making it easier 
           enabled: true
           title: Yash Chhabra
           subtitle: "I'm a MSc student in **Sustainable and Green Finance** at **NUS Business School**. 
-          -
-          -
-          -
+
+          <br><br>
           My mom, a former teacher, had an extraordinary talent for breaking down complex ideas into simple, digestible terms, which made her the best teacher I’ve ever had. This skill of simplifying complexity is the same approach I aspire to bring to the world of Sustainability to solve complex problems."
           imageUrl: "GitHub.jpg"
           imageWidth: 150
