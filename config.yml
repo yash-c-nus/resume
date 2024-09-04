@@ -12,7 +12,7 @@ taxonomies:
 menu:
     main:
         - name: Reads
-          url: reads/
+          url: books/
           weight: 2 
         - name: Coffee
           url: coffee/
@@ -57,7 +57,7 @@ I love breaking down complex problems into simpler components, making it easier 
     profileMode:
           enabled: true
           title: Yash Chhabra
-          subtitle: "I'm a **MSc student** in **Sustainable and Green Finance** at **NUS Business School**."
+          subtitle: "I'm a MSc student in **Sustainable and Green Finance** at **NUS Business School**."
           imageUrl: "GitHub.jpg"
           imageWidth: 150
           imageHeight: 150
@@ -65,12 +65,12 @@ I love breaking down complex problems into simpler components, making it easier 
           buttons:
             - name: Courses
               url: courses/
-            - name: Papers
-              url: papers/
+            - name: Reads
+              url: books/
             - name: Projects
               url: projects/
-            - name: Reads
-              url: reads/
+            # name: Reads
+             # url: reads/
             - name: Coffee
               url: coffee/
 
