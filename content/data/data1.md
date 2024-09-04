@@ -3,15 +3,15 @@ title: "Coffee in Singapore"
 date:
 lastmod:
 tags: ["coffee","singapore"]
-author: ["Yash Chhabra"]
+author:
 description: "These are all the coffee shops I have been to in Singapore."
-summary: "bean there, sipped there"
+summary:
 showToc: true
 disableAnchoredHeadings: false
 
 ---
 
-## Coffee in Singapore
+## Bean there, sipped there
 
 I have been to the following spots since I came to SG in August 2024:
 
