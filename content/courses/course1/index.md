@@ -7,7 +7,7 @@ author: "Yash Chhabra"
 description: "The graduate level courses I'm currently enrolled in at NUS Business School." 
 summary:  
 cover:
-    image: "CoBrand-BusinessSchool-COLS-sq.jpg"
+    image: "NUS.png"
     alt: "NUS Business School"
     relative: false
 editPost:
