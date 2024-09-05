@@ -18,6 +18,8 @@ disableAnchoredHeadings: false
 
 ---
 
+Semester 1 courses:
+
 ## BMG 5101 - Foundational Corporate Finance
 
 [Instructor: Prof Ruth Tan](https://discovery.nus.edu.sg/183-seow-kuan-tan)
@@ -41,3 +43,9 @@ The course introduces students to the economics of sustainability. It will provi
 [Instructor: Prof Mabel Chou Cheng-Feng](https://discovery.nus.edu.sg/906-chengfeng-chou)
 
 This course aims to provide students with a comprehensive understanding of sustainability in supply chain management, focusing on environmental sustainability, waste reduction, and supply chain resilience. Students will learn about the importance of integrating sustainability principles into supply chain operations to minimize environmental impact, reduce waste, enhance resilience, and create long-term value for businesses and society.
+
+---
+
+Semester 2 courses will include electives.
+Currently looking for Capstone Project for Jan 2025.
+
