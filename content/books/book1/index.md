@@ -3,8 +3,8 @@ title: "My favorite reads of 2024"
 date: 
 lastmod: 
 tags: 
-author: 
-description: ""
+author: "Yash Chhabra"
+description: "I enjoyed reading these books and articles this year."
 summary: 
 cover:
     image: "book1.png"
