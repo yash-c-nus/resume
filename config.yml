@@ -13,13 +13,13 @@ menu:
     main:
         - name: Reads
           url: books/
-          weight: 2 
+          weight: 3 
         - name: Coffee
           url: data/
           weight: 5
         - name: Courses
           url: courses/
-          weight: 3
+          weight: 2
         - name: Projects
           url: papers/
           weight: 4 
