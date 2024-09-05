@@ -5,11 +5,7 @@ lastmod:
 tags: 
 author: "Yash Chhabra"
 description: "I enjoyed reading these books and articles this year."
-summary: 
-cover:
-    image: "book1.png"
-    alt: 
-    relative: false
+
 editPost:
     URL: 
     Text: 
