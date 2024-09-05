@@ -20,12 +20,11 @@ disableAnchoredHeadings: false
 
 ---
 
-#### Description
+#### Breaking the Mould: Reimagining India's Economic Future by Raghuram Rajan and Rohit Lamba
 
-This book discusses Portugese irregular verbs in great details. It is the seminal work on Romance philology.[^1] The book is the result of years of research into the etymology and vagaries of Portuguese verbs.[^2] Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This book gives a clear overview of what India needs to do, for it to succeed in the future, apart from throwing light on the path it took to come here.^1
+
+Rajan, the former Reserve Bank of India Governor, and Lamba, an economist at Cornell, have given some amazing insights into how the current economic policies might shape India going forward.
 
 [^1]: The acknowledged aim of the book is to dwarf all other books in the field.
 [^2]: As a result of such intensive research, the book's length is almost twelve hundred pages.
