@@ -36,8 +36,5 @@ The Flynn effect, which refers to the rise in IQ scores over time, highlights th
 
 I have been spending a lot of time researching and learning financial modeling. One of the companies that interested me for this project is Costco. You can follow updates on this project [here](https://yash-c-nus.github.io/resume/papers/).
 
-
-
 ---
 
-#### Citation
