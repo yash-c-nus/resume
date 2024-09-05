@@ -32,16 +32,6 @@ The Flynn effect, which refers to the rise in IQ scores over time, highlights th
 
 ---
 
-#### View
-
-+ [Chapter 1: History of the Portuguese language](chapter1.pdf)
-+ [Chapter 2: Review of regular verbs](chapter2.pdf)
-+ [Chapter 3: Analysis of irregular verbs](chapter3.pdf)
-
----
-
-#### Excerpt from Chapter 1: Basic mathematical results from Portuguese philology
-
 
 
 
