@@ -18,6 +18,7 @@ disableAnchoredHeadings: false
 
 ---
 Semester 1 courses are as follows. Semester 2 courses will include electives.
+
 Currently looking for Capstone Project for Jan 2025.
 
 ## BMG 5101 - Foundational Corporate Finance
