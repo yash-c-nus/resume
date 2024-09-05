@@ -2,7 +2,7 @@
 title: "Courses"
 date: "2024"
 lastmod: September 2024
-tags: ["NUS Business School","sustainability","economics","finance","investments","foundation"]
+tags: ["NUS Business School","sustainability","economics","finance","investments","foundation","capstone project"]
 author: "Yash Chhabra"
 description: "The graduate level courses I'm currently enrolled in at NUS Business School." 
 summary:  
@@ -17,8 +17,8 @@ showToc: true
 disableAnchoredHeadings: false
 
 ---
-
-Semester 1 courses:
+Semester 1 courses are as follows. Semester 2 courses will include electives.
+Currently looking for Capstone Project for Jan 2025.
 
 ## BMG 5101 - Foundational Corporate Finance
 
@@ -45,7 +45,4 @@ The course introduces students to the economics of sustainability. It will provi
 This course aims to provide students with a comprehensive understanding of sustainability in supply chain management, focusing on environmental sustainability, waste reduction, and supply chain resilience. Students will learn about the importance of integrating sustainability principles into supply chain operations to minimize environmental impact, reduce waste, enhance resilience, and create long-term value for businesses and society.
 
 ---
-
-Semester 2 courses will include electives.
-Currently looking for Capstone Project for Jan 2025.
 
