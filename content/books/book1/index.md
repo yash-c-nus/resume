@@ -1,18 +1,18 @@
 ---
-title: "Breaking the Mould: Reimagining India's Economic Future" 
+title: "My favorite reads of 2024" 
 date: 
-lastmod: 2024-05-08
-tags: ["breaking the mould","india","raghuram rajan"]
-author: ["Raghuram Rajan and Rohit Lamba"]
-description: "This book gives a clear overview of what India needs to do, for it to succeed in the future, apart from throwing light on the path it took to come here."
+lastmod: 
+tags: 
+author: 
+description: ""
 summary: 
 cover:
     image: "book1.png"
-    alt: "Portugese Irregular Verbs"
+    alt: 
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Regensburg University Press"
+    URL: 
+    Text: 
 showToc: false
 disableAnchoredHeadings: false
 
