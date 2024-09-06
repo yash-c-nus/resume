@@ -1,6 +1,6 @@
 ---
 title: "Costco - Financial Modeling *work in progress*" 
-date: 
+date: 2024
 lastmod: 2024
 tags: ["costco","financial modeling"]
 author: ["Yash Chhabra"]
