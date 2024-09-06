@@ -19,4 +19,6 @@ editPost:
 
 ##### I am currently learning Costco's business model to create a forecast for the company's future results.
 
+I will share my Excel file here for feedback.
+
 
