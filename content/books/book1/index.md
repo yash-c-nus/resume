@@ -19,10 +19,9 @@ This list is not exhaustive and in no particular order.
 
 #### 1. Breaking the Mould: Reimagining India's Economic Future - Raghuram Rajan & Rohit Lamba
 
-Rajan, the former Reserve Bank of India Governor, and Lamba, an economist at Cornell, have given a clear overview of what India needs to do, for it to succeed in the future, apart from throwing light on the path it took to come here.[^1] India is the world's fastest-growing major economy and is on track to surpass Japan and Germany by 2027.[^2]
+Rajan, the former Reserve Bank of India Governor, and Lamba, an economist at Cornell, have given a clear overview of what India needs to do, for it to succeed in the future, apart from throwing light on the path it took to come here. India is the world's fastest-growing major economy and is on track to surpass Japan and Germany by 2027.[^1]
 
-[^1]: The acknowledged aim of the book is to dwarf all other books in the field.
-[^2]: [BlackRock Advisor Center](https://www.blackrock.com/us/financial-professionals/insights/exploring-india-economy)
+[^1]: [BlackRock Advisor Center](https://www.blackrock.com/us/financial-professionals/insights/exploring-india-economy)
 
 ---
 
