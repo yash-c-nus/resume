@@ -21,9 +21,11 @@ I have been to the following spots since I came to SG in August 2024:
 4. [Acoustics Coffee Bar](https://www.instagram.com/acousticscoffeebar/): This is hands-down my favorite place to study and relax. The Acoustics Cloud is a signature drink with a delightful cloud foam on top! It's creamy and perfectly sweet for me. I also tried the Dark Cloud, but imo, the Acoustics Cloud is definitely better.
 5. [Kurasu Singapore](https://www.instagram.com/kurasusg/):
 6. [Alchemist](https://www.instagram.com/alchemist.sg/):
-7. [Apartment Coffee](https://www.instagram.com/apartmentcoffee/):
+7. [Apartment](https://www.instagram.com/apartmentcoffee/):
 8. [Rough Guys Coffee](https://www.instagram.com/roughguyscoffee/):
 9. [Snap Cafe](https://www.instagram.com/snapcafe.sg/):
 10. [ASK Coffee Roastery](https://www.instagram.com/askcoffeeroastery/):
+11. [Lola's Cafe](https://www.instagram.com/lolascafesg/):
+12. [butter tgt](https://www.instagram.com/butter_tgt/):
 
 ---
