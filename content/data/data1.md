@@ -27,5 +27,6 @@ I have been to the following spots since I came to SG in August 2024:
 10. [ASK Coffee Roastery](https://www.instagram.com/askcoffeeroastery/):
 11. [Lola's Cafe](https://www.instagram.com/lolascafesg/):
 12. [butter tgt](https://www.instagram.com/butter_tgt/):
+13. [MAXI COFFEE BAR](https://www.instagram.com/maxi.coffeebar/):
 
 ---
