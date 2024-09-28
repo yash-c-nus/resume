@@ -29,6 +29,7 @@ I have been to the following spots since I came to SG in August 2024:
 12. [butter tgt](https://www.instagram.com/butter_tgt/):
 13. [MAXI COFFEE BAR](https://www.instagram.com/maxi.coffeebar/):
 14. [Asylum Coffee](https://www.instagram.com/asylumcoffeesg):
-    image: Github.jpg
+    imageUrl : "Github.jpg"
+    
 
 ---
