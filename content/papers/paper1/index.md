@@ -1,8 +1,8 @@
 ---
 title: "Costco - Financial Modeling"
-date: "2024"
-lastmod: 2024
-tags: ["costco","financial modeling"]
+date: "October 2024"
+lastmod: "October 2024"
+tags: ["costco","financial modeling","visa","designathon"]
 author: ["Yash Chhabra"]
 description:  Work in Progress
 summary: 
@@ -17,8 +17,6 @@ editPost:
 
 ---
 
-##### I am currently learning Costco's business model to create a forecast for the company's future results.
-
-I will share my Excel file here for feedback.
+##### I enjoy working on side-projects and taking part in competitions.
 
 
