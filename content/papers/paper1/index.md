@@ -1,5 +1,5 @@
 ---
-title: "Costco - Financial Modeling"
+title: "Projects/Competitions"
 date: "October 2024"
 lastmod: "October 2024"
 tags: ["costco","financial modeling","visa","designathon"]
@@ -17,6 +17,4 @@ editPost:
 
 ---
 
-##### I enjoy working on side-projects and taking part in competitions.
-
-
+##### I’m passionate about exploring side projects and participating in competitions. This page highlights some of my ongoing projects and showcases the competitions I’ve been involved in.
