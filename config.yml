@@ -20,7 +20,7 @@ menu:
         - name: Courses
           url: courses/
           weight: 2
-        - name: Projects
+        - name: Projects/Competitions
           url: papers/
           weight: 4 
         - name: LinkedIn
@@ -73,7 +73,7 @@ I love breaking down complex problems into simpler components, making it easier 
               url: courses/
             - name: Reads
               url: books/
-            - name: Projects
+            - name: Projects/Competitions
               url: papers/
             # name: Reads
              # url: reads/
