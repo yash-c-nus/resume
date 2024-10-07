@@ -29,4 +29,4 @@ I had the opportunity to participate in the Visa Financial Inclusion Designathon
 
 Working alongside a few friends in a diverse team of innovators and problem-solvers, we focused on creating solutions to enhance financial inclusion across the elderly aged 60 and above. This immersive experience allowed us to explore the intersection of design, technology, and finance while tackling one of Singapore's most pressing socio-economic challenges.
 
-Here is our *white-paper* and the *presentation*.
+Here is our *[white-paper](visa paper.pdf)* and the *[presentation](visa designathon.pdf)*.
