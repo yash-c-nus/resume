@@ -30,5 +30,6 @@ I have been to the following spots since I came to SG in August 2024:
 13. [MAXI COFFEE BAR](https://www.instagram.com/maxi.coffeebar/):
 14. [Asylum Coffee](https://www.instagram.com/asylumcoffeesg):
 15. [sourdough & brew](https://www.instagram.com/bakingwithgina):
+16. [hey slow joe](https://www.instagram.com/heyslowjoe):
 
 ---
