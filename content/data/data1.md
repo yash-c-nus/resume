@@ -16,10 +16,10 @@ disableAnchoredHeadings: false
 I have been to the following spots since I came to SG in August 2024:
 
 1. [Cafe Ren](https://www.instagram.com/caferen.sg/): The first place I went to after landing in SG. The hot chocolatey mocha paired with their warm and flakey croissant made me forget about my tiring red-eye flight. I'll definitely go back!
-2. [Puzzle Coffee](https://www.instagram.com/thepuzzlecoffee/): 
+2. [Puzzle Coffee](https://www.instagram.com/thepuzzlecoffee/): A memorable spot where I connected with a few of my fellow NUS cohort members. We tried a variety of drinks, and the consensus was that their tea outshines their coffee. We spent hours sharing stories, experiences, and backgrounds—laying the foundation for meaningful friendships.
 3. [Tomoro Coffee](https://www.instagram.com/tomorocoffee.sg/): Started by a fellow NUS BIZ alumni, the Tomoro @ NUS location serves fantastic coffee and pastries to college students. The oat milk latte is perfect for sipping while spending countless hours in the HSS library.
 4. [Acoustics Coffee Bar](https://www.instagram.com/acousticscoffeebar/): This is hands-down my favorite place to study and relax. The Acoustics Cloud is a signature drink with a delightful cloud foam on top! It's creamy and perfectly sweet for me. I also tried the Dark Cloud, but imo, the Acoustics Cloud is definitely better.
-5. [Kurasu Singapore](https://www.instagram.com/kurasusg/):
+5. [Kurasu Singapore](https://www.instagram.com/kurasusg/): I walked in expecting to grab my usual mocha, only to find out they don’t carry it. So, I took a chance on their Hojicha Latte — and it exceeded all my expectations! It’s definitely a must-try. Plus, the baristas are super friendly and knowledgeable, making the experience even better.
 6. [Alchemist](https://www.instagram.com/alchemist.sg/):
 7. [Apartment](https://www.instagram.com/apartmentcoffee/):
 8. [Rough Guys Coffee](https://www.instagram.com/roughguyscoffee/):
