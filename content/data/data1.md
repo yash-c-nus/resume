@@ -32,5 +32,5 @@ I have been to the following spots since I came to SG in August 2024:
 15. [sourdough & brew](https://www.instagram.com/bakingwithgina):
 16. [hey slow joe](https://www.instagram.com/heyslowjoe):
 17. [NYLON COFFEE](https://www.instagram.com/nyloncoffee):
-
+18. [Old Hen Coffee Bar](https://www.instagram.com/oldhencoffee):
 ---
