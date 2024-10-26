@@ -63,7 +63,11 @@ I walked in expecting to grab my usual mocha, only to find out they don’t carr
 
 18. [Old Hen Coffee Bar](https://www.instagram.com/oldhencoffee): hot mocha. //
 
-19. [CCSH Coffee Bar](https://www.instagram.com/cshhcoffee): iced mocha w oat milk. //
+
+19. [Huggs Coffee](https://www.instagram.com/huggs.sg): hot mocha. //
+  
+
+20. [CCSH Coffee Bar](https://www.instagram.com/cshhcoffee): iced mocha w oat milk. //
 
 
 ---
