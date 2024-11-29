@@ -75,4 +75,6 @@ I walked in expecting to grab my usual mocha, only to find out they don’t carr
 22. [Calligraph Coffee](https://www.instagram.com/calligraphcoffee): hot mocha.//
 
 23. [Dawn](https://www.instagram.com/dawnkissa): hot white. //
+
+24. [Fame Coffee](https://www.instagram.com/famecoffeesg): hot mocha. //
 ---
