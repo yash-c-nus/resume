@@ -80,5 +80,11 @@ I walked in expecting to grab my usual mocha, only to find out they don’t carr
 
 25. [Fluid](https://www.instagram.com/fluidcollective.co): hot chocolate. //
 
+26. [Equate](https://www.instagram.com/equatecoffee): iced mocha. //
+
+27. [The Glasshouse](https://www.instagram.com/theglasshousesg): iced mocha. //
+
+28. [Spring Coffee](https://www.instagram.com/springcoffee.sg): iced mocha. //
+
 
 ---
