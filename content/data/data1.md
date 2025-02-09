@@ -76,15 +76,17 @@ I walked in expecting to grab my usual mocha, only to find out they don’t carr
 
 23. [Dawn](https://www.instagram.com/dawnkissa): hot white. //
 
-24. [Fame Coffee](https://www.instagram.com/famecoffeesg): hot mocha. //
+24. [Coffeehouse by Kobashi](https://www.instagram.com/kobashi_sg): iced mocha. //
 
-25. [Fluid](https://www.instagram.com/fluidcollective.co): hot chocolate. //
+25. [Fame Coffee](https://www.instagram.com/famecoffeesg): hot mocha. //
 
-26. [Equate](https://www.instagram.com/equatecoffee): iced mocha. //
+26. [Fluid](https://www.instagram.com/fluidcollective.co): hot chocolate. //
 
-27. [The Glasshouse](https://www.instagram.com/theglasshousesg): iced mocha. //
+27. [Equate](https://www.instagram.com/equatecoffee): iced mocha. //
 
-28. [Spring Coffee](https://www.instagram.com/springcoffee.sg): iced mocha. //
+28. [The Glasshouse](https://www.instagram.com/theglasshousesg): iced mocha. //
+
+29. [Spring Coffee](https://www.instagram.com/springcoffee.sg): iced mocha. //
 
 
 ---
