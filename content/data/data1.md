@@ -88,5 +88,7 @@ I walked in expecting to grab my usual mocha, only to find out they don’t carr
 
 29. [Spring Coffee](https://www.instagram.com/springcoffee.sg): iced mocha. //
 
+30. [Coexist Coffee Co.](https://www.instagram.com/coexistcoffee.co): hot mocha. //
+
 
 ---
