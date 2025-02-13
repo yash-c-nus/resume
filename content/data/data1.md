@@ -27,48 +27,33 @@ This is hands-down my favorite place to study and relax. The Acoustics Cloud is 
 I walked in expecting to grab my usual mocha, only to find out they don’t carry it. So, I took a chance on their Hojicha Latte — and it exceeded all my expectations! It’s definitely a must-try. Plus, the baristas are super friendly and knowledgeable, making the experience even better.
 6. [Alchemist](https://www.instagram.com/alchemist.sg/): iced mocha. //
 
-
 7. [Apartment](https://www.instagram.com/apartmentcoffee/): 
-
 
 8. [Rough Guys Coffee](https://www.instagram.com/roughguyscoffee/): iced mocha //
 
-
 9. [Snap Cafe](https://www.instagram.com/snapcafe.sg/): 
-
 
 10. [ASK Coffee Roastery](https://www.instagram.com/askcoffeeroastery/):
 
-
 11. [Lola's Cafe](https://www.instagram.com/lolascafesg/): hot mocha //
-
 
 12. [butter tgt](https://www.instagram.com/butter_tgt/):
 
-
 13. [MAXI COFFEE BAR](https://www.instagram.com/maxi.coffeebar/): 
-
 
 14. [Asylum Coffee](https://www.instagram.com/asylumcoffeesg): 
 
-
 15. [sourdough & brew](https://www.instagram.com/bakingwithgina): dirty latte. //
-
 
 16. [hey slow joe](https://www.instagram.com/heyslowjoe): 
 
-
 17. [NYLON COFFEE](https://www.instagram.com/nyloncoffee): iced white. //
-
 
 18. [Old Hen Coffee Bar](https://www.instagram.com/oldhencoffee): hot mocha. //
 
-
-19. [Huggs Coffee](https://www.instagram.com/huggs.sg): hot mocha. //
-  
+19. [Huggs Coffee](https://www.instagram.com/huggs.sg): hot mocha. //  
 
 20. [CCSH Coffee Bar](https://www.instagram.com/cshhcoffee): iced mocha w oat milk. //
-
 
 21. [Pocket by Flip Coffee Roasters](https://www.instagram.com/flipcoffeeroasters): filthy.//
 
@@ -90,5 +75,6 @@ I walked in expecting to grab my usual mocha, only to find out they don’t carr
 
 30. [Coexist Coffee Co.](https://www.instagram.com/coexistcoffee.co): hot mocha. //
 
+31. [The Clueless Goat](https://www.instagram.com/thecluelessgoat): dirty orange (espresso + soda + fresh orange juice). //
 
 ---
