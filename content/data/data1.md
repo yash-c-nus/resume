@@ -81,7 +81,7 @@ I walked in expecting to grab my usual mocha, only to find out they don’t carr
 
 33. [Balance Coffee](https://www.instagram.com/balancecoffee.sg): iced mocha. //
 
-34. [Kyuukei Coffee]: hot mocha.//
+34. [Kyuukei Coffee](https://www.instagram.com/kyuukeicoffee): hot mocha.//
 
 
 ---
